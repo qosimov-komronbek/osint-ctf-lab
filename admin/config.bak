@@ -1,0 +1,6 @@
+# MegaCorpOne Admin Config Backup
+ADMIN_URL=/wp-admin
+DB_NAME=megacorp_prod
+DB_USER=mcoadmin
+DB_PASS=S3cur3P4ss!
+SECRET_KEY=not-the-flag-keep-looking
