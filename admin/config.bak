@@ -3,4 +3,4 @@ ADMIN_URL=/wp-admin
 DB_NAME=megacorp_prod
 DB_USER=mcoadmin
 DB_PASS=S3cur3P4ss!
-SECRET_KEY=not-the-flag-keep-looking
+STATIC_FLAG=red1{g00gl3_d0rk5_f1nd_b4ckup5}

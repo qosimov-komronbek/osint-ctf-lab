@@ -1,0 +1,6 @@
+Netcraft Snapshot (frozen for RED1 CTF)
+Target: megacorpone.com
+Web Server: Apache
+Hosting Org: Amazon
+Country: US
+Training Flag: red1{n3tcr4ft_5n4p5h0t_4p4ch3}

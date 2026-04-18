@@ -1,0 +1,6 @@
+Shodan Snapshot (frozen for RED1 CTF)
+Query: "MegaCorpOne SCADA"
+Top Match Org: MegaCorpOne
+Port: 10102
+Banner Product: SCADA Gateway
+Training Flag: red1{sh0d4n_5n4p5h0t_1nd3x}
